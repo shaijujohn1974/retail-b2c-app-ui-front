@@ -1,1 +1,1 @@
-# retail-b2c-biap-app-ui-front
+# retail-b2c-app-ui-front
